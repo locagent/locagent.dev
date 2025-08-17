@@ -1,0 +1,5 @@
+# _config.yml
+title: Locagent
+remote_theme: sighingnow/jekyll-gitbook
+plugins:
+  - jekyll-seo-tag
