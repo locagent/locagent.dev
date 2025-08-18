@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: null
+title: "LA.dev"
 ---
 
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/abed4abb-195c-42b1-b738-c99e543731ff" />
