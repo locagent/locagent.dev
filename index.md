@@ -2,8 +2,7 @@
 layout: default
 title: "i18n & Multilingual SEO Best Practices for AI App Builders"
 ---
-
-<img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/abed4abb-195c-42b1-b738-c99e543731ff" />
+<img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/e31ff0fd-a3fa-41b8-aa93-309cd141f653" />
 
 Copy-pasteable guideline prompts for teams building marketing MVPs with **AI app builders** (Lovable, Bubble, Bolt.new, Replit, v0, Floot), **AI-powered IDEs** (Cursor, Windsurf), **coding assistants** (Claude Code) or **AI chatbots** (ChatGPT, Gemini, Claude, Grok, DeepSeek).
 
