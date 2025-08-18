@@ -1,3 +1,8 @@
+---
+layout: home
+title: LocAgent.dev
+---
+
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/370f421d-c379-4db2-92bd-304b0dd0d283" />
 
 # LocAgent.dev
