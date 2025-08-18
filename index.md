@@ -1,11 +1,11 @@
 ---
-layout: home
+layout: default
 title: LocAgent.dev
 ---
 
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/370f421d-c379-4db2-92bd-304b0dd0d283" />
 
-# LocAgent.dev
+# i18n & Multilingual SEO — Done Right for AI App Builders
 Copy-pasteable guideline prompts for teams building marketing MVPs with **AI app builders** (Lovable, Bubble, Bolt.new, Replit, v0, Floot), **AI-powered IDEs** (Cursor, Windsurf), **coding assistants** (Claude Code) or **AI chatbots** (ChatGPT, Gemini, Claude, Grok, DeepSeek).
 
 ## Motivation
@@ -25,14 +25,6 @@ Avoids:
 
 ---
 
-## How it works
-
-1. Include best practices in your prompts so AI app builders generate robust code.  
-2. The **open-source** guidelines are transparent and free to **tailor** to your specific needs.  
-3. Resolve common issues with **conventional prompts** automatically.
-
----
-
 ## Who this helps
 
 - Startup teams sprinting a **marketing MVP** with AI-generated code  
@@ -42,10 +34,18 @@ Avoids:
 
 ---
 
+## How it works
+
+1. Include best practices in your prompts so AI app builders generate robust code.  
+1. The **open-source** guidelines are transparent and free to **tailor** to your specific needs.  
+1. Resolve common issues with **conventional prompts** automatically.
+
+---
+
 ## The solutions
 
 1. **SEO Best-Practice Prompt**  
-   Prompt + checklist to audit and fix:
+   [Prompt + Checklist](https://github.com/locagent/seo-best-practices) to audit and fix:
    - [x] &nbsp; Titles
    - [x] &nbsp; Descriptions
    - [x] &nbsp; Open Graph
@@ -56,12 +56,9 @@ Avoids:
    - [x] &nbsp; Internal links
    - [x] &nbsp; 404/redirects
    - [x] &nbsp; Schema.org
-   ```
-   Follow all guidelines from seo.locagent.dev. ALL guidelines, no exceptions.
-   ```
 
-3. **Internationalization (i18n) Best Practices**  
-   Prompt + checklist to make your app translation-ready:
+1. **Internationalization (i18n) Best Practices**  
+   [Prompt + Checklist](https://github.com/locagent/i18n-best-practices) to make your app translation-ready:
    - [x] &nbsp; Keys
    - [x] &nbsp; Language selector
    - [x] &nbsp; Placeholder naming
@@ -72,18 +69,12 @@ Avoids:
    - [x] &nbsp; Locale negotiation
    - [x] &nbsp; Fallbacks
    - [x] &nbsp; QA flags
-   ```
-   Follow all guidelines from i18n.locagent.dev. ALL guidelines, no exceptions.
-   ```
    
-5. **Multilingual SEO (after i18n)**  
-   Prompt + checklist to turn i18n into global traffic:
+1. **Multilingual SEO (after i18n)**  
+   [Prompt + Checklist](https://github.com/locagent/multilingual-best-practices) to turn i18n into global traffic:
    - [x] &nbsp; Unique locale URLs
    - [x] &nbsp; Localized metadata
    - [x] &nbsp; `hreflang` clusters
    - [x] &nbsp; Self-canonicals
    - [x] &nbsp; Per-locale sitemaps
    - [x] &nbsp; In-Language structured data
-   ```
-   Follow all guidelines from multilingual.locagent.dev. ALL guidelines, no exceptions.
-   ```
