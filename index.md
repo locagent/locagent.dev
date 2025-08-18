@@ -5,6 +5,7 @@ description: "Best practices for building i18n SEO multilingual web apps by Lova
 ---
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/e31ff0fd-a3fa-41b8-aa93-309cd141f653" />
 
+# i18n &amp; Multilingual SEO Best Practices for AI App Builders
 Copy-pasteable guideline prompts for teams building marketing MVPs with **AI app builders** (Lovable, Bubble, Bolt.new, Replit, v0, Floot), **AI-powered IDEs** (Cursor, Windsurf), **coding assistants** (Claude Code) or **AI chatbots** (ChatGPT, Gemini, Claude, Grok, DeepSeek).
 
 ## Motivation
