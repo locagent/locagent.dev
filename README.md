@@ -41,44 +41,44 @@ Avoids:
 
 1. **SEO Best-Practice Prompt**  
    Prompt + checklist to audit and fix:
-   - [x] Titles
-   - [x] Descriptions
-   - [x] Open Graph
-   - [x] Canonicals
-   - [x] Robots
-   - [x] Sitemaps
-   - [x] Headings
-   - [x] Internal links
-   - [x] 404/redirects
-   - [x] Schema.org
+   - [x] &nbsp; Titles
+   - [x] &nbsp; Descriptions
+   - [x] &nbsp; Open Graph
+   - [x] &nbsp; Canonicals
+   - [x] &nbsp; Robots
+   - [x] &nbsp; Sitemaps
+   - [x] &nbsp; Headings
+   - [x] &nbsp; Internal links
+   - [x] &nbsp; 404/redirects
+   - [x] &nbsp; Schema.org
    ```
    Follow all guidelines from seo.locagent.dev. ALL guidelines, no exceptions.
    ```
 
 3. **Internationalization (i18n) Best Practices**  
    Prompt + checklist to make your app translation-ready:
-   - [x] Keys
-   - [x] Language selector
-   - [x] Placeholder naming
-   - [x] Pluralization and count
-   - [x] Formatting (dates/numbers)
-   - [x] ICU messages
-   - [x] Right‑to‑Left
-   - [x] Locale negotiation
-   - [x] Fallbacks
-   - [x] QA flags
+   - [x] &nbsp; Keys
+   - [x] &nbsp; Language selector
+   - [x] &nbsp; Placeholder naming
+   - [x] &nbsp; Pluralization and count
+   - [x] &nbsp; Formatting (dates/numbers)
+   - [x] &nbsp; ICU messages
+   - [x] &nbsp; Right‑to‑Left
+   - [x] &nbsp; Locale negotiation
+   - [x] &nbsp; Fallbacks
+   - [x] &nbsp; QA flags
    ```
    Follow all guidelines from i18n.locagent.dev. ALL guidelines, no exceptions.
    ```
    
 5. **Multilingual SEO (after i18n)**  
    Prompt + checklist to turn i18n into global traffic:
-   - [x] Unique locale URLs
-   - [x] Localized metadata
-   - [x] `hreflang` clusters
-   - [x] Self-canonicals
-   - [x] Per-locale sitemaps
-   - [x] In-Language structured data
+   - [x] &nbsp; Unique locale URLs
+   - [x] &nbsp; Localized metadata
+   - [x] &nbsp; `hreflang` clusters
+   - [x] &nbsp; Self-canonicals
+   - [x] &nbsp; Per-locale sitemaps
+   - [x] &nbsp; In-Language structured data
    ```
    Follow all guidelines from multilingual.locagent.dev. ALL guidelines, no exceptions.
    ```
