@@ -1,6 +1,3 @@
 # _config.yml
 title: Locagent
-remote_theme: sighingnow/jekyll-gitbook
-plugins:
-  - jekyll-seo-tag
 favicon_path: assets/favicon-32x32.png
