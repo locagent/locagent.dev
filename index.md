@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "LocAgent.dev: i18n & Multilingual SEO Best Practices for AI App Builders"
+title: "i18n & Multilingual SEO Best Practices for AI App Builders"
 ---
 
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/abed4abb-195c-42b1-b738-c99e543731ff" />
