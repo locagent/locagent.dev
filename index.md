@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "i18n & Multilingual SEO Best Practices for AI App Builders"
+description: "Best practices for building i18n SEO multilingual web apps by Lovable, Bubble, Bolt, Replit, v0, Floot, Cursor, Windsurf, Claude Code AI app builders."
 ---
 <img width="100%" alt="locagent.dev" src="https://github.com/user-attachments/assets/e31ff0fd-a3fa-41b8-aa93-309cd141f653" />
 
