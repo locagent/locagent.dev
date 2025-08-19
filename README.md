@@ -5,6 +5,15 @@ Copy-pasteable guideline prompts for teams building marketing MVPs with AI app b
 
 ---
 
+## Usage
+
+This project outlines best practices for using vibe coding to build marketing MVPs that are ready for a global audience. The topics covered include:
+- [SEO](https://github.com/locagent/seo-best-practices)
+- [Internationalization (i18n)](https://github.com/locagent/i18n-best-practices)
+- [Multilingual SEO](https://github.com/locagent/multilingual-best-practices)
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
