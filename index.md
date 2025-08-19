@@ -78,3 +78,25 @@ Avoids:
    - [x] &nbsp; Self-canonicals
    - [x] &nbsp; Per-locale sitemaps
    - [x] &nbsp; In-Language structured data
+
+---
+
+## Usage
+In your AI app builder, copy and paste the following prompt to apply our best practices guidelines:
+
+- SEO
+```
+Follow all guidelines from seo.locagent.dev. ALL guidelines, no exceptions.
+```
+
+- i18n
+```
+Follow all guidelines from i18n.locagent.dev. ALL guidelines, no exceptions.
+```
+
+- Multilingual SEO
+```
+Follow all guidelines from multilingual.locagent.dev. ALL guidelines, no exceptions.
+```
+
+This will instruct the AI to focus on i18n and multilingual SEO issues without altering unrelated logic or formatting.
